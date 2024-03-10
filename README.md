@@ -17,3 +17,7 @@ and the [Contribution](https://github.com/NebraskyTheWolf/www.fluffici.eu/blob/m
 
 ## Description
 This project is made for Fluffici, this repository contains the SDK for PHP of the Location API of Fluffici using geonames datasets.
+
+## Stats
+
+![Alt](https://repobeats.axiom.co/api/embed/4afa0071e639839d1b1d7c66a9dff80ba353ced1.svg "Repobeats analytics image")
